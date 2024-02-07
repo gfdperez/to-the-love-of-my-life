@@ -18,12 +18,12 @@ body {
 
 h1.text-body-emphasis {
     color: var(--color-four)!important;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 p {
     color: var(--color-four);
-    font-size: 2rem!important;
+    font-size: 1.5rem!important;
 }
 
 .btn-primary {
